@@ -1,6 +1,6 @@
 # Git Homework
 * Alana Saavedra
-* 02-03-18
+* 02-04-18
 * [Github Repo link](https://github.com/alasaave/hw_javascript_saavedra_alana)
 
 ## Resources
