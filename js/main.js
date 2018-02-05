@@ -27,3 +27,8 @@ var numba = function (string) {
 numba('7');
 numba('seventy');
 numba('university');
+
+function inception(display, favMovie) {
+    display(favMovie);
+}
+inception(console.log("'Kingsman' is a fantastic movie."));
