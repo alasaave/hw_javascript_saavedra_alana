@@ -9,3 +9,8 @@ var presidents = [
     {firstName: 'George', lastName: 'Bush', termLength: '4 years', party: 'Republican', yearsOfPresidency: 4},
 ];
 console.log(presidents[2].firstName + ' ' + presidents[2].lastName);
+
+function howdy() {
+    console.log('Alana Saavedra says hi!');
+}
+howdy();
